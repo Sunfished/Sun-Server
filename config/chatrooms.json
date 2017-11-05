@@ -1,0 +1,4 @@
+[
+{"title":"Lobby","isOfficial":true,"autojoin":true,"auth":{"sunfished":"#"}},
+{"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true}
+]
