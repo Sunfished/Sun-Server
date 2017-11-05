@@ -1,0 +1,74 @@
+
+TypeError: Cannot read property 'tier' of undefined
+    at ModdedDex.getTemplate (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\sim\dex.js:361:135)
+    at ModdedDex.dataSearch (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\sim\dex.js:912:48)
+    at CommandContext.data (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\info.js:393:24)
+    at CommandContext.run (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:380:28)
+    at CommandContext.details (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\info.js:591:8)
+    at CommandContext.run (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:380:28)
+    at CommandContext.parse (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:225:19)
+    at Object.Chat.parse (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:933:17)
+    at User.chat (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\users.js:1421:9)
+    at Function.Users.socketReceive (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\users.js:1608:12)
+
+Additional information:
+  user = sUnfished
+  room = lobby
+  pmTarget = undefined
+  message = !dt gomokoi-king
+
+
+TypeError: Cannot read property 'tier' of undefined
+    at ModdedDex.getTemplate (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\sim\dex.js:361:135)
+    at ModdedDex.dataSearch (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\sim\dex.js:912:48)
+    at CommandContext.data (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\info.js:393:24)
+    at CommandContext.run (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:380:28)
+    at CommandContext.details (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\info.js:591:8)
+    at CommandContext.run (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:380:28)
+    at CommandContext.parse (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:225:19)
+    at Object.Chat.parse (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat.js:933:17)
+    at User.chat (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\users.js:1421:9)
+    at Function.Users.socketReceive (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\users.js:1608:12)
+
+Additional information:
+  user = sUnfished
+  room = lobby
+  pmTarget = undefined
+  message = !dt gomokoiking
+
+
+TypeError: Cannot read property 'tier' of undefined
+    at ModdedDex.getTemplate (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\sim\dex.js:361:135)
+    at runDexsearch (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:648:22)
+    at DatasearchManager.receive (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:54:14)
+    at DatasearchManager.onMessageDownstream (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:45:47)
+    at process.on.message (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:349:38)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+Additional information:
+  target = dragon, water 
+  cmd = dexsearch
+  message = 
+
+
+TypeError: Cannot read property 'tier' of undefined
+    at ModdedDex.getTemplate (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\sim\dex.js:361:135)
+    at runDexsearch (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:648:22)
+    at DatasearchManager.receive (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:54:14)
+    at DatasearchManager.onMessageDownstream (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:45:47)
+    at process.on.message (C:\Users\Kevin\Documents\Games\Technical\FakedexServer\Server\chat-plugins\datasearch.js:349:38)
+    at emitTwo (events.js:126:13)
+    at process.emit (events.js:214:7)
+    at emit (internal/child_process.js:772:12)
+    at _combinedTickCallback (internal/process/next_tick.js:141:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+
+Additional information:
+  target = electric
+  cmd = dexsearch
+  message = 
+
